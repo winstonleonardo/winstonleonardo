@@ -1,37 +1,7 @@
-<! -- cabeçalhos--> 
+## Sejam bem vindos ao meu Mundo!
 
-# Título 1
-## Título 2
-### Título 3 
-#### Título 4
-##### Título 5
-###### Título 6
+![Gif do Gatinho](https://www.google.com/search?sca_esv=ce82798a7417db5b&q=gif+do+gatinho+no+computador&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTrdWqiVbaH6EqK0Fq9hkAkqRDuhGs7UQnPtZiL0Bzcj78aaFR2vnR4DfQyahVzxKNVdmu_9ezWGR5WW4lCamL8K6_4A64QNs-EEnfxQebefJaGt5wKYvw9HujFP04oGdXtOA2xcAr8bgNdzYKBdRkoo3XWB0v8VDm8IV4rPBRp_hfSPzwQ&sa=X&ved=2ahUKEwj3sf7bpOaIAxWrrZUCHa9xE7MQtKgLegQIFRAB&biw=1366&bih=641&dpr=1#vhid=Wct095ujrp8ZAM&vssid=mosaic)
 
-*itálico* ou _itálico_
-
-**Negrito** ou _Negrito_
-
-___Negrito e itálico___
-
--Lista 1
--Lista 2
--Sublista
-
-1. Lista 1
-2. Lista 2
-3. Sublista
-
-[Texto da imagem](https://www.google.com/search?sca_esv=1345533643b5776c&q=imagem+por+do+sol&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTrdWqiVbaH6EqK0Fq9hkAkqRDuhGs7UQnPtZiL0Bzcj78aaFR2vnR4DfQyahVzxKNc4LGy-dSmtu0GzO7wqoCoKeVc1DGD7oqFC5NSRNfugkowmHkG6b6P3pNqnjH9wiZMaj4fjG1jdVkuVLIMivt99Wnsv1qj1v01DE4a8lq57ILUNbUw&sa=X&sqi=2&ved=2ahUKEwjiqN-xnOaIAxUBuJUCHUjEDSYQtKgLegQIGBAB&biw=1366&bih=641&dpr=1#vhid=zoNAVk4pZW2kkM&vssid=mosaic)
-
-![Texto da Imagem](https://www.google.com/search?sca_esv=1345533643b5776c&q=imagem+por+do+sol&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTrdWqiVbaH6EqK0Fq9hkAkqRDuhGs7UQnPtZiL0Bzcj78aaFR2vnR4DfQyahVzxKNc4LGy-dSmtu0GzO7wqoCoKeVc1DGD7oqFC5NSRNfugkowmHkG6b6P3pNqnjH9wiZMaj4fjG1jdVkuVLIMivt99Wnsv1qj1v01DE4a8lq57ILUNbUw&sa=X&sqi=2&ved=2ahUKEwjiqN-xnOaIAxUBuJUCHUjEDSYQtKgLegQIGBAB&biw=1366&bih=641&dpr=1#vhid=zoNAVk4pZW2kkM&vssid=mosaic)
-
-`system.out.println();`
-
->Texto das citações
-
-|Cabeçalho 1 | Cabeçalho 2 |
-|------------|-------------|
-| Texto 1    | Texto 2     |
 
 
 
