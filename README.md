@@ -7,7 +7,15 @@
 ##### Título 5
 ###### Título 6
 
+*itálico* ou _itálico_
 
+**Negrito** ou _Negrito_
+
+___Negrito e itálico___
+
+-Lista 1
+-Lista 2
+-Sublista
 
 
 👋 Hi, I’m @winstonleonardo
